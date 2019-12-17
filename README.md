@@ -1,1 +1,1 @@
-"#simple-minesweeper" 
+#simple-minesweeper
